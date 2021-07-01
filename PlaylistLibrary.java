@@ -44,8 +44,5 @@ class PlaylistLibrary {
        return true;
   }
 
-  /**
-   * Get a video by id. Returns null if the video is not found.
-   */
   
 }
